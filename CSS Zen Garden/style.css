@@ -17,7 +17,7 @@
 
 .design-selection {
     position: absolute;
-    top:520px ;
+    top:500px ;
     left: 62%;
     width:34%;
     padding-right: 2%;
@@ -157,3 +157,28 @@ a:hover {
 .design-selection li:last-of-type {
     border-bottom: #1f295c solid 1px;
 }
+
+@media screen and (max-width:768px) {
+    .design-selection{
+        position: static;
+        width: 100%;
+    }
+
+    .explanation{
+        border-right:none;
+        width: 100%;
+    }
+
+    #zen-intro {
+        height: auto;
+    }
+
+    .participation {
+        flex-direction: column;
+    }
+
+    .p {
+        text-indent: 0;
+    }
+}
+
