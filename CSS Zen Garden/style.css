@@ -5,6 +5,23 @@
 .My-Color-Theme-4-hex { color: #71C6D9; }
 .My-Color-Theme-5-hex { color: #F2E96D; }
 
+.page-wrapper {
+    position: relative;
+}
+
+.explanation {
+    width: 60%;
+    border-right:#1f295c solid 1px;
+    padding-right: 2%;
+}
+
+.design-selection {
+    position: absolute;
+    top:560px ;
+    left: 62%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
 
 html {
     background: #F2E96D; 
