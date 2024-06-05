@@ -43,8 +43,9 @@ h3 {font-size: 1.2rem;}
 }
 
 .main footer a {
-    border: solid 2px;
+    border:solid #F2A2C0 2px;
     padding: 0.5em;
+    display: inline-block;
 }
 aside ul {
     list-style-type: none;
@@ -77,4 +78,7 @@ aside ul li {
 display: inline-block;
 }
 
-#zen-intro header h1
+#zen-intro header h1 {
+    margin-left: 1em;
+    margin-right: 1em;
+}
