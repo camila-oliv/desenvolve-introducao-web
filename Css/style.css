@@ -18,13 +18,13 @@ uma 15% mais clara, outra 15% mais escura. Coloque as cores lado-a-lado e compar
 */
 
 .cor {
-    color: rgb(219, 78, 68);
+    background: rgb(219, 78, 68);
 }
 
 .cor-clara {
-    color: rgb(252, 90, 78);
+    background: rgb(252, 90, 78);
 }
 
 .cor-escura {
-    color: rgb(186, 66, 58);
+    background: rgb(186, 66, 58);
 }
