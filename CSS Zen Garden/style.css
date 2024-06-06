@@ -182,3 +182,26 @@ a:hover {
     }
 }
 
+@media print {
+    html {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    #zen-intro header {
+        background-color: #fbfcfd;
+        color:#1f295c 
+    }
+    .explanation {
+        width: 60%;
+        border-right:#1f295c solid 1px;
+        padding-right: 2%;
+    }
+    
+    .design-selection {
+        position: absolute;
+        top:500px ;
+        left: 62%;
+        width:34%;
+        padding-right: 2%;
+    }
+}
