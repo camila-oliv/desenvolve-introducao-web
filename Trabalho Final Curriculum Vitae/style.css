@@ -1,3 +1,29 @@
+
+
+
+.fundo {
+    color: #fee5ad;
+}
+
+.principal {
+    color: #faca66;
+}
+
+.backgrand {
+    color: #f7a541;
+}
+
+.corpo {
+	 font :  14px; 
+    }
+
+.dados_pessoais {
+    border-top: 3px solid rgb(122, 122, 175) ;
+	cor de fundo :  # 3b3b3b ;
+	cor :  #ddd ;​
+	preenchimento :  5 px ;	
+}
+
 .foto {
     width: 300px;
 }
