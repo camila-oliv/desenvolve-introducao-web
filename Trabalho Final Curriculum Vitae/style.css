@@ -52,12 +52,12 @@ body {
 
 .rodape { 
     background-color:#fcdd99;
-    border:1px solid,#f7a541;
+    border:2px solid,#f7a541;
 }
 
 .menu {
        list-style:none;
-        border:1px solid,#f7a541 ;
+        border:2px solid,#f7a541 ;
         float:center;
         text-align: center;
         background-color: #fcdd99;
