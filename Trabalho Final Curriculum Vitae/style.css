@@ -75,3 +75,27 @@ body {
 .educacao {
     top:690px;
 }
+
+@media screen and (max-width:768px) {
+    .body {
+        position: static;
+        width: 100%;
+    }
+
+    .cabecalho{
+        border-right:none;
+        width: 100%;
+    }
+
+    .menu {
+        height: auto;
+    }
+
+    .experiencia, .menu {
+        flex-direction: column;
+    }
+
+    .p {
+        text-indent: 0;
+    }
+}
