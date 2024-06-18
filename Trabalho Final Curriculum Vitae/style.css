@@ -1,6 +1,4 @@
 
-
-
 .fundo {
     color: #f9e7bf;
 }
@@ -20,27 +18,26 @@
 
 .cabecalho {
     text-align: center;
-    color: rgb(53, 53, 108);
+    color: rgb(53, 108, 54);
     font-size: 17px;
-
-    
-
-
+    border-bottom:#f7a541 solid 2px ;
+    top:200px ;
 }
+
 .titulo, h1 {
     font-family:sans-serif;
-    color: blue;
+    color: rgb(5, 75, 6))0, 255, 4);
     text-align: center;
-
 }
+
 .titulo, h2 {
     font-family:sans-serif;
-    color:rgb(20, 6, 143);
+    color:rgb(6, 143, 68);
 }
 
 .titulo, h3, h4 {
     font-family:sans-serif;
-    color: rgb(53, 53, 108);
+    color: rgb(53, 108, 54);
 }
 
 h1 {font-size: 1.8rem;}
@@ -69,12 +66,12 @@ body {
 }
 .experiencia {
     position: absolute;
-    top:690px ;
+    top:710px ;
     left: 62%;
     width:34%;
     padding-right: 2%;
 }
 
 .educacao {
-    top:690px ;
+    top:690px;
 }
